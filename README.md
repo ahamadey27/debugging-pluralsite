@@ -1,0 +1,2 @@
+# debugging-pluralsite
+Debugging course
