@@ -21,6 +21,7 @@ do
     Console.Write("Please select an option: ");
     input = Console.ReadLine();
 
+    
     Console.WriteLine();
 
     if (input != null && input != "")
